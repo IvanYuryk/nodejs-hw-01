@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "Alan Keeling",
+    "phone": "293-592-9082",
+    "email": "Lon66@yahoo.com",
+    "job": "International Paradigm Designer"
+  },
+  {
+    "name": "Wesley Kuvalis",
+    "phone": "906-579-5640",
+    "email": "Germaine86@yahoo.com",
+    "job": "Product Markets Officer"
+  },
+  {
+    "name": "Sarah Lindgren",
+    "phone": "401.694.3864 x468",
+    "email": "Reese.Reichel-Beatty81@yahoo.com",
+    "job": "Internal Marketing Analyst"
+  }
+]
